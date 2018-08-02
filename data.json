@@ -1,0 +1,338 @@
+[
+    {
+      "id": 187,
+      "name": "Amazon Web Services (AWS)",
+      "definition": "A collection of infrastructure services started by one of the largest e-commerce companies in the world",
+      "sentence": null
+    },
+    {
+      "id": 104,
+      "name": "Application Programming Interface (API)",
+      "definition": "The interface in which we interact with a code base or application",
+      "sentence": null
+    },
+    {
+      "id": 171,
+      "name": "Asynchronous JavaScript and XML (AJAX)",
+      "definition": "A way of asynchronously making requests to servers from the client",
+      "sentence": null
+    },
+    {
+      "id": 10,
+      "name": "Behavior Driven Development (BDD)",
+      "definition": "A development strategy focusing on writing tests with readable sentences some times based on user stories",
+      "sentence": null
+    },
+    {
+      "id": 114,
+      "name": "Cascading Style Sheets (CSS)",
+      "definition": "The language used to give an HTML page its visual style",
+      "sentence": null
+    },
+    {
+      "id": 283,
+      "name": "Command-line Interface (CLI)",
+      "definition": "The generic name for Terminal, Shell, Bash, etc.",
+      "sentence": null
+    },
+    {
+      "id": 123,
+      "name": "Content Delivery Network (CDN)",
+      "definition": "A server or servers dedicated to hosting static content, optimized for performance",
+      "sentence": null
+    },
+    {
+      "id": 77,
+      "name": "Continuous Delivery (CD)",
+      "definition": "A software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time",
+      "sentence": null
+    },
+    {
+      "id": 14,
+      "name": "Continuous Integration (CI)",
+      "definition": "The practice of merging all developer working copies to a shared mainline several times a day",
+      "sentence": null
+    },
+    {
+      "id": 88,
+      "name": "Create Read Update Delete (CRUD)",
+      "definition": "A set of four common actions performed on data",
+      "sentence": null
+    },
+    {
+      "id": 102,
+      "name": "Cross-Origin Resource Sharing (CORS)",
+      "definition": "A browser implemented security feature to allow or deny making requests from one domain to another. ",
+      "sentence": null
+    },
+    {
+      "id": 103,
+      "name": "Cross-site Request Forgery (CSRF)",
+      "definition": "An attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated, specifically state-changing requests",
+      "sentence": null
+    },
+    {
+      "id": 106,
+      "name": "Cross-site Scripting (XSS)",
+      "definition": "A security breach that takes advantage of dynamically generated web pages rendering JavaScript from a users input",
+      "sentence": null
+    },
+    {
+      "id": 207,
+      "name": "Database (DB)",
+      "definition": "A collection of information that is organized so it can be easily accessed, managed and updated",
+      "sentence": null
+    },
+    {
+      "id": 252,
+      "name": "Database Management System (DBMS)",
+      "definition": "A general-purpose software system for the definition, creation, querying, update, and administration of databases",
+      "sentence": null
+    },
+    {
+      "id": 22,
+      "name": "Dependency Injection (DI)",
+      "definition": "A technique whereby one object supplies the dependencies of another object",
+      "sentence": null
+    },
+    {
+      "id": 117,
+      "name": "Document Object Model (DOM)",
+      "definition": "A representation of an HTML Document converted into a programmable interface",
+      "sentence": null
+    },
+    {
+      "id": 23,
+      "name": "Don't Repeat Yourself (DRY)",
+      "definition": "A principle of software development aimed at reducing repetition of software patterns or duplicate code",
+      "sentence": null
+    },
+    {
+      "id": 266,
+      "name": "End 2 End Tests (e2e)",
+      "definition": "A type of test to ensure functionality works from start to finish",
+      "sentence": null
+    },
+    {
+      "id": 25,
+      "name": "Entity Relationship Diagram (ERD)",
+      "definition": "A data modeling technique that graphically illustrates an information system's entities and the relationships between those entities",
+      "sentence": null
+    },
+    {
+      "id": 31,
+      "name": "File-transfer Protocol (FTP)",
+      "definition": "A standard network protocol used for the transfer of computer files between a client and server",
+      "sentence": null
+    },
+    {
+      "id": 202,
+      "name": "Higher-Order Component (HOC)",
+      "definition": "A function that takes a component and returns a new component",
+      "sentence": null
+    },
+    {
+      "id": 201,
+      "name": "Higher-Order Function (HOF)",
+      "definition": "A function that takes functions as arguments, or returns a function as its result",
+      "sentence": null
+    },
+    {
+      "id": 101,
+      "name": "Hyper-Text Transfer Protocol (HTTP)",
+      "definition": "An application protocol for distributed, collaborative, and hypermedia information systems which is also the foundation of data communication for the World Wide Web",
+      "sentence": null
+    },
+    {
+      "id": 214,
+      "name": "Immediately-invoked Function Expression (IIFE)",
+      "definition": "A wrapping function we invoke on definition to prevent new variables from being exposed to the current scope",
+      "sentence": null
+    },
+    {
+      "id": 190,
+      "name": "Infrastructure as a Service (IaaS)",
+      "definition": "A business selling virtualized computing resources on a subscription",
+      "sentence": null
+    },
+    {
+      "id": 290,
+      "name": "Integrated Development Environment (IDE)",
+      "definition": "Software to ease the pain of writing code manually, usually geared towards a specific language or languages",
+      "sentence": null
+    },
+    {
+      "id": 289,
+      "name": "Internet of Things (IoT)",
+      "definition": "A reference to the ever-growing network of physical objects that feature an IP address for internet connectivity",
+      "sentence": null
+    },
+    {
+      "id": 82,
+      "name": "JavaScript Object Notation (JSON)",
+      "definition": "A data format commonly used on the web to exchange data between servers or store in a standardized format.",
+      "sentence": null
+    },
+    {
+      "id": 40,
+      "name": "JSON Web Tokens (JWT)",
+      "definition": "A way for us to store JSON data in a \"token\" format, meaning it will have a tamper evident check involved",
+      "sentence": null
+    },
+    {
+      "id": 280,
+      "name": "Keep It Simple, Stupid (KISS)",
+      "definition": "A principle stating that most systems work best if they are kept simple rather than made complicated",
+      "sentence": null
+    },
+    {
+      "id": 100,
+      "name": "Model View Controller (MVC)",
+      "definition": "An architectural pattern to divide an application into three interconnected parts to keep data, visual, and intermediary code separated",
+      "sentence": null
+    },
+    {
+      "id": 122,
+      "name": "Node Package Manager (npm)",
+      "definition": "A package manager for JavaScript, also the world's largest software registry",
+      "sentence": null
+    },
+    {
+      "id": 299,
+      "name": "Object Relational Mapper (ORM)",
+      "definition": "",
+      "sentence": null
+    },
+    {
+      "id": 188,
+      "name": "Platform as a Service (PaaS)",
+      "definition": "A business selling cloud computing as a subscription",
+      "sentence": null
+    },
+    {
+      "id": 244,
+      "name": "PostgreSQL (PSQL)",
+      "definition": "An open source relational database management system based on traditional SQL, also referred to as `pg`",
+      "sentence": null
+    },
+    {
+      "id": 130,
+      "name": "Pull Request (PR)",
+      "definition": "A request to merge changes from another branch or repository on Github",
+      "sentence": null
+    },
+    {
+      "id": 206,
+      "name": "Quality Assurance (QA)",
+      "definition": "A means of monitoring the software engineering processes and methods used to ensure quality through automated or manual testing",
+      "sentence": null
+    },
+    {
+      "id": 213,
+      "name": "Regular Expression (RegEx)",
+      "definition": "A sequence of characters that define a search pattern",
+      "sentence": null
+    },
+    {
+      "id": 199,
+      "name": "Scalable Vector Graphics (SVG)",
+      "definition": "An XML-based markup language for describing two dimensional based vector graphics.",
+      "sentence": null
+    },
+    {
+      "id": 225,
+      "name": "Secure Shell (SSH)",
+      "definition": "A network protocol for connecting to networked services in a secure manner",
+      "sentence": null
+    },
+    {
+      "id": 224,
+      "name": "Secure Sockets Layer (SSL)",
+      "definition": "The standard for creating a secure link between the web and browser",
+      "sentence": null
+    },
+    {
+      "id": 58,
+      "name": "Semantic Versioning (SemVer)",
+      "definition": "A versioning spec that uses the format `major.minor.patch` (e.g. `1.3.1`)",
+      "sentence": null
+    },
+    {
+      "id": 60,
+      "name": "Single-page Application (SPA)",
+      "definition": "An application that serves from a single page (often `index.html`) and may include client-side routing.",
+      "sentence": null
+    },
+    {
+      "id": 189,
+      "name": "Software as a Service (SaaS)",
+      "definition": "A business who sells a subscription to proprietary software",
+      "sentence": null
+    },
+    {
+      "id": 279,
+      "name": "S.O.L.I.D. Principles (SOLID)",
+      "definition": "A mnemonic acronym for five design principles intended to make software designs more understandable, flexible and maintainable",
+      "sentence": null
+    },
+    {
+      "id": 112,
+      "name": "Structured Query Language (SQL)",
+      "definition": "A standardized programming language used for managing and performing various operations on data in relational databases",
+      "sentence": null
+    },
+    {
+      "id": 141,
+      "name": "Syntactically Awesome Style Sheets (SASS)",
+      "definition": "A style sheet language allowing variables, nested rules, mixins, and more on top of CSS",
+      "sentence": null
+    },
+    {
+      "id": 64,
+      "name": "Test Driven Development (TDD)",
+      "definition": "A software development process that relies on writing tests before writing any code",
+      "sentence": null
+    },
+    {
+      "id": 205,
+      "name": "Uniform Resource Identifier (URI)",
+      "definition": "A string of characters used to identify a resource, such as a URL",
+      "sentence": null
+    },
+    {
+      "id": 204,
+      "name": "Uniform Resource Locator (URL)",
+      "definition": "A reference to a web resource that specifies its location on a computer network and a mechanism for retrieving it",
+      "sentence": null
+    },
+    {
+      "id": 69,
+      "name": "Universally Unique Identifier (UUID)",
+      "definition": "Unlike most other numbering schemes, this is for practical purposes unique, without depending for their uniqueness on a central registration authority or coordination between the parties generating them",
+      "sentence": null
+    },
+    {
+      "id": 143,
+      "name": "User Experience (UX)",
+      "definition": "The process of enhancing user satisfaction with a product by improving the usability, accessibility, and pleasure provided in the interaction with the product",
+      "sentence": null
+    },
+    {
+      "id": 142,
+      "name": "User Interface (UI)",
+      "definition": "The design users are provided to interact with a product or application",
+      "sentence": null
+    },
+    {
+      "id": 268,
+      "name": "Web Graphics Library (WebGL)",
+      "definition": "A JavaScript API for creating 2D and 3D graphics on the web",
+      "sentence": null
+    },
+    {
+      "id": 203,
+      "name": "World Wide Web (www)",
+      "definition": "An information space where documents and other web resources are identified by URLs, interlinked by hypertext links, and can be accessed via the Internet",
+      "sentence": null
+    }
+  ]
